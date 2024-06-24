@@ -1,0 +1,23 @@
+.contenedor-video {
+  width: 600px; /* Ajusta el ancho del contenedor */
+  margin: 0 auto; /* Centra el contenedor horizontalmente */
+}
+
+#miVideo {
+  width: 100%; /* El video ocupa todo el ancho del contenedor */
+  height: 360px; /* Ajusta la altura del video */
+}
+
+.informacion-video {
+  text-align: center;
+  margin-top: 10px;
+}
+
+h3 {
+  margin-bottom: 5px;
+}
+
+img {
+  width: 100px; /* Ajusta el ancho de la miniatura */
+  height: auto; /* Conserva la proporción de la miniatura */
+}
